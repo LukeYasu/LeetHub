@@ -6,6 +6,5 @@ function climbStairs(n: number): number {
         const num = arr[i - 1] + arr[i - 2];
         arr.push(num);
     };
-    console.log(arr)
     return arr[n];
 };
