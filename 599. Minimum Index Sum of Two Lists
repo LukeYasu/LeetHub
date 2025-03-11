@@ -1,0 +1,20 @@
+function findRestaurant(list1: string[], list2: string[]): string[] {
+    const map = new Map<string, number>()
+    let leastSum = Infinity;
+    let result: string[] = [];
+    for(let i = 0; i < list1.length; i++){
+        map.set(list1[i], i)
+    }
+    for(let x = 0; x < list2.length; x++){
+        if(map.has(list2[x])){
+            const sum = x + map.get(list2[x])!
+            if(sum === leastSum){
+                result.push(list2[x])
+            }else if(sum < leastSum){
+                leastSum = sum;
+                result = [list2[x]]
+            }
+        }
+    }
+    return result
+};
