@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LukeYasu/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/LukeYasu/LeetHub/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
@@ -13,9 +14,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/LukeYasu/LeetHub/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/LukeYasu/LeetHub/tree/master/0941-sort-array-by-parity) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
