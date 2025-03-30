@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/0013-roman-to-integer) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LukeYasu/LeetHub/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Array
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LukeYasu/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/LukeYasu/LeetHub/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
