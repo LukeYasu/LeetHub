@@ -16,15 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/LukeYasu/LeetHub/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/LukeYasu/LeetHub/tree/master/0941-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -51,9 +54,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
