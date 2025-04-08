@@ -65,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/LukeYasu/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/LukeYasu/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
