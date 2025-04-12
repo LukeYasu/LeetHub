@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/LukeYasu/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/LukeYasu/LeetHub/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/LukeYasu/LeetHub/tree/master/0941-sort-array-by-parity) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/LukeYasu/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/LukeYasu/LeetHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/LukeYasu/LeetHub/tree/master/0792-binary-search) |
 ## Interactive
 |  |
