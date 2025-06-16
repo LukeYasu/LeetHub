@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/LukeYasu/LeetHub/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/LukeYasu/LeetHub/tree/master/0861-flipping-an-image) |
 ## Linked List
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/LukeYasu/LeetHub/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/LukeYasu/LeetHub/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LukeYasu/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/LukeYasu/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/LukeYasu/LeetHub/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
